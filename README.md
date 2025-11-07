@@ -6,12 +6,6 @@
 
 <p align="center">That’s the phrase that stayed in my heart and mind when I started programming.</p>
 
-<div align="center" style="background-color:#3e2c23; border-radius:15px; padding:25px; color:#f5e6d3; font-family: 'Segoe UI', sans-serif;">
-
-<p>
-✨ I’m an <b>Informatics Engineering student</b>, curious and creative, always wanting to keep learning.  
-I like to understand how things work, solve problems, and put what I learn into practice by turning ideas into something real through code.  
-I really enjoy <b>frontend development</b>, designing interfaces, and creating things that people can actually use and enjoy.  
-I also love organizing, leading, and working with others to make sure every project has meaning and direction.✨
+<p align="center">
+  <img src="./about-card.svg" alt="About me" width="800" />
 </p>
-</div>

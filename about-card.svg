@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="About me card">
+  <defs>
+    <style>
+      .bg { fill: #3e2c23; }
+      .text { fill: #f5e6d3; font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size:18px; line-height:1.5; }
+    </style>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="blur"/>
+      <feOffset dx="0" dy="6" result="offsetBlur"/>
+      <feMerge>
+        <feMergeNode in="offsetBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Fondo -->
+  <rect x="18" y="18" rx="18" ry="18" width="864" height="284" class="bg" filter="url(#softShadow)"/>
+
+  <!-- Texto centrado -->
+  <g transform="translate(450,80)" text-anchor="middle">
+    <text class="text" x="0" y="0">
+      <tspan x="0" dy="0">✨ I’m an <tspan style="font-weight:700">Informatics Engineering student</tspan>, curious and creative,</tspan>
+      <tspan x="0" dy="26">always wanting to keep learning.</tspan>
+      <tspan x="0" dy="26">I like to understand how things work, solve problems,</tspan>
+      <tspan x="0" dy="26">and put what I learn into practice by turning ideas into something real through code.</tspan>
+      <tspan x="0" dy="26">I really enjoy <tspan style="font-weight:700">frontend development</tspan>, designing interfaces,</tspan>
+      <tspan x="0" dy="26">and creating things that people can actually use and enjoy.</tspan>
+      <tspan x="0" dy="26">I also love organizing, leading, and working with others to make sure</tspan>
+      <tspan x="0" dy="26">every project has meaning and direction. ✨</tspan>
+    </text>
+  </g>
+</svg>
