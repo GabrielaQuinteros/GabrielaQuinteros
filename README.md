@@ -16,24 +16,10 @@
   <u><b>Knowledge Base</b></u>
 </h2>
 
-<h3 align="center" style="color:#6F4E37;">Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
+|<h3><samp>Frontend </h3> [![React](https://img.shields.io/badge/react-85B0FF?style=for-the-badge&logo=react&logoColor=white)](#) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS3&logoColor=white)](#) [![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=Kotlin&logoColor=white)](#) | <h3> <samp>Backend & Databases </h3> [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#) [![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![PocketBase](https://img.shields.io/badge/pocketbase-3E7BFA?style=for-the-badge&logo=database&logoColor=white)](#) [![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=CoffeeScript&logoColor=white)](#) |
+|-------------|-------------|
+| <h3><samp> Project Management & Tools </h3> [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#) [![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#) [![Figma](https://img.shields.io/badge/figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)](#) [![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](#) [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) [![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](#)| <h3><samp> Skills </h3> [![Planning](https://img.shields.io/badge/planning-red?style=for-the-badge&logo=Trello&logoColor=white)](#) [![Leadership](https://img.shields.io/badge/leadership-blue?style=for-the-badge&logo=Handshake&logoColor=white)](#) [![Work With Teams](https://img.shields.io/badge/work%20with%20teams-blueviolet?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#) [![Problem Solving](https://img.shields.io/badge/problem%20solving-green?style=for-the-badge&logo=Codeforces&logoColor=white)](#) 
 
-<h3 align="center" style="color:#6F4E37;">Frontend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
 
-<h3 align="center" style="color:#6F4E37;">Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+
+
